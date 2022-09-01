@@ -1,6 +1,6 @@
-# coinsniper-upvotes-watchlists
+# coinsniper-upvotes-watchlists-trending-bot
 
-Coinsniper.net Upvotes & Watchlists
+Coinsniper.net Votes & Watchlists
 
 
 ![coinsniper](https://user-images.githubusercontent.com/112619158/187878927-bc1aa223-2110-4bce-92fc-4f1b284e68c0.jpg)
